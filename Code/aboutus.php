@@ -220,10 +220,11 @@ ul.sub-menu>li>a:hover {
     		</div>
 		</div>
     </div>
-</section><br><br>
+</section><br>
+<br>
 
     <pre class="about">We are the devlopers of this site.We are students of DDU <br>University,Nadiad of Computer Science Department and made<br>this project in year 1 using PHP ,MySQL. 
-	
+
 </pre>
 </body>
 </html>
