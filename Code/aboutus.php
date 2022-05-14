@@ -118,6 +118,7 @@
 	}
 
 	#button-submit {
+		
 		width: auto!important;
 		float: right;
 		border-radius: 0 2px 2px 0;
@@ -126,6 +127,7 @@
 		font-weight: 600;
 		text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
 		color: #fff
+
 	}
 	@media only screen and (max-width:720px) {
 		nav ul {
