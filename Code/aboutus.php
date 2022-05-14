@@ -173,14 +173,7 @@
 			margin: 0;
 		}
 	}
-	.navbar{
-		padding:5px;
-	}
-	.about{
-		line-height:52px;
-		font-size:40px;
-		
-	}
+	
     </style>
 </head>
 <body>
