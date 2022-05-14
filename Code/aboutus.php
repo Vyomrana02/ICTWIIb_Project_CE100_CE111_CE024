@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -221,7 +221,9 @@ ul.sub-menu>li>a:hover {
 		</div>
     </div>
 </section><br><br>
+
     <pre class="about">We are the devlopers of this site.We are students of DDU <br>University,Nadiad of Computer Science Department and made<br>this project in year 1 using PHP ,MySQL. 
+	
 </pre>
 </body>
 </html>
