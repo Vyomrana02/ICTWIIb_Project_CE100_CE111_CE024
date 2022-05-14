@@ -87,6 +87,15 @@
 		color: #66a992;
 	}
 
+	.navbar{
+		padding:5px;
+	}
+	.about{
+		line-height:52px;
+		font-size:40px;
+		
+	}
+	
 	@media only screen and (max-width:720px) {
 		nav ul {
 			width: 100%!important
